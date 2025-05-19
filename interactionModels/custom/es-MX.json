@@ -1,0 +1,70 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "SaludoIntent",
+          "samples": [
+            "buenas tardes",
+            "buenos días ",
+            "di hola",
+            "saludar",
+            "hola"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CreadorIntent",
+          "samples": [
+            "Quién creó esta aplicación",
+            "Quién te hizo",
+            "Quién es tu creador"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CarreraIntent",
+          "samples": [
+            "Qué está estudiando",
+            "Qué carrera estudia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ColorFavoritoIntent",
+          "samples": [
+            "Qué color le gusta más",
+            "Cuál es su color favorito"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaFavoritaIntent",
+          "samples": [
+            "Qué música le gusta",
+            "Cuál es su grupo favorito"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "saluda jaime"
+    }
+  }
+}
